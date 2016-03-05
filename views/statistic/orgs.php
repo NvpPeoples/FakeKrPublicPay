@@ -86,7 +86,7 @@ $this->title = 'Статистика';
     <?php endforeach?>
     </table>
     <br/>
-    <h2>Найменш економні організації</h2>
+    <h2>Найбільш економні організації</h2>
     <table class="table table-stripped">
     <?php foreach($data['smallest'] as $row):?>
         <tr>
