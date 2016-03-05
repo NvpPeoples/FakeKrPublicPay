@@ -5,7 +5,7 @@ use yii\bootstrap\ActiveForm;
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'Прозорі фінанси навчальних закладів';
 ?>
 <div class="site-index">
 
